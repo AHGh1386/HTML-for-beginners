@@ -5,13 +5,21 @@
 1. Introduction to HTML
    1. What is HTML?
    2. Basic Structure of an HTML Document
-   3. HTML Elements and Tags]
+   3. HTML Elements and Tags
 
 2. Text and Headings
    1. Paragraphs `<p>`
    2. Headings `<h1>` to `<h6>`
    3. Line Breaks `<br>`
    4. Horizontal Rules `<hr>`
+
+3. Links
+   1. Anchor Tags `<a>`
+
+
+4. Images
+   1. Adding Images `<img>`
+   2. Image Attributes (Width, Height, Alt)
 
 
 # 1. Introduction to HTML
@@ -67,5 +75,32 @@ Horizontal rules create a visual break between content.
 
 ```
 
+## 3. Links
+### Anchor Tags `<a>`
+Anchor tags are used to create hyperlinks that allow users to navigate between web pages.
+```html
+<a href="https://www.google.com">Visit google</a>
+```
+You can alson make an image to a link:
+
+```html
+<a href = "https://www.google.com"><img src="Link of an image"></a>
+```
+### Adding image
+You can add images from the internet or you can add images from your files.
+
+```html
+<img src="Link of the image">
+<img src="NameOftheFolder/image.jpg>
+```
+
+### Image Attributes (Width, Height, Alt)
+
+width and height are clear. 
+alt is for when your image has some problems in uploading:
+```html
+<img src="linkOfaImage" alt="hello">
+```
+In this code if your image does not upload, it will write something to say that what this image is about.
 
 
