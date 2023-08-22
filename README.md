@@ -21,9 +21,29 @@
    1. Adding Images `<img>`
    2. Image Attributes (Width, Height, Alt)
 
+5. Lists
+   1. Unordered Lists `<ul>`
+   2. Ordered Lists `<ol>`
+   3. 
+6. Tables
+   1. Creating Tables `<table>`
+   2. Table Rows `<tr>`
+   3. Table Headers `<th>`
+   4. Table Data `<td>`
 
+7. [Forms](#forms)
+   1. Form Structure `<form>`
+   2. Text Input `<input type="text">`
+   3. Password Input `<input type="password">`
+   4. Radio Buttons `<input type="radio">`
+   5. Checkboxes `<input type="checkbox">`
+   6. Dropdown Menus `<select>`
+   7. Textareas `<textarea>`
+   8. Submit Buttons `<input type="submit">`
+  
+      
 # 1. Introduction to HTML
-# What is HTML
+# What is HTML ??
 
 HTML stands for HyperText Markup Language. It is a standard markup language for web page creation. It allows the creation and structure of sections, paragraphs, and links using HTML elements (the building blocks of a web page) such as tags and attributes. 
 
@@ -41,7 +61,7 @@ HTML stands for HyperText Markup Language. It is a standard markup language for 
 </html>
 ```
 
-## HTML Elements and tags
+## 2.HTML Elements and tags
 
 <img src="https://www.scmgalaxy.com/tutorials/wp-content/uploads/2021/05/html-elements.png" alt="html">
 <img src="https://images.slideplayer.com/29/9492814/slides/slide_2.jpg">
@@ -86,7 +106,7 @@ You can alson make an image to a link:
 ```html
 <a href = "https://www.google.com"><img src="Link of an image"></a>
 ```
-### Adding image
+## 4.Adding images
 You can add images from the internet or you can add images from your files.
 
 ```html
@@ -102,5 +122,39 @@ alt is for when your image has some problems in uploading:
 <img src="linkOfaImage" alt="hello">
 ```
 In this code if your image does not upload, it will write something to say that what this image is about.
+
+## 5.Lists
+
+### unordered lists
+
+```html
+<ul>
+    <li>List item1<li>
+    <li>List item2<li>
+    <li>List item3<li>
+    <li>List item4<li>
+    <li>List item5<li>
+    <li>List item6<li>
+</ul>
+```
+
+### Ordered lists
+
+```html
+<ol>
+    <li>List item1<li>
+    <li>List item2<li>
+    <li>List item3<li>
+    <li>List item4<li>
+    <li>List item5<li>
+    <li>List item6<li>
+</ol>
+```
+
+# 6.Tabels
+
+<img src="https://www.codewithfaraz.com/img/Mastering%20the%20Table%20Tag%20in%20HTML%20A%20Comprehensive%20Guide.jpg">
+
+
 
 
