@@ -2,16 +2,16 @@
 
 ## HTML Documentation for Beginner Web Developers
 
-1. [Introduction to HTML](#introduction-to-html)
-   1. [What is HTML?](#what-is-html)
-   2. [Basic Structure of an HTML Document](#basic-structure-of-an-html-document)
-   3. [HTML Elements and Tags](#html-elements-and-tags)
+1. Introduction to HTML
+   1. What is HTML?
+   2. Basic Structure of an HTML Document
+   3. HTML Elements and Tags]
 
-2. [Text and Headings](#text-and-headings)
-   1. [Paragraphs `<p>`](#paragraphs-p)
-   2. [Headings `<h1>` to `<h6>`](#headings-h1-to-h6)
-   3. [Line Breaks `<br>`](#line-breaks-br)
-   4. [Horizontal Rules `<hr>`](#horizontal-rules-hr)
+2. Text and Headings
+   1. Paragraphs `<p>`
+   2. Headings `<h1>` to `<h6>`
+   3. Line Breaks `<br>`
+   4. Horizontal Rules `<hr>`
 
 
 # 1. Introduction to HTML
@@ -45,11 +45,26 @@ HTML stands for HyperText Markup Language. It is a standard markup language for 
 
 <img src="https://www.schudio.com/wp-content/uploads/2016/10/html-headings.png?x50398">
 
-### Paragraph
+### Paragraphs `<p>` 
 
 ```html
     <p> THis is a paragragh </p>
     <p> This is another paragragh </p>
+```
+
+### Line Breaks `<br>` <br>
+Headings define the hierarchy of the text on the page.
+```html
+<p>This is the first line.<br>This is the second line.</p>
+
+```
+### Horizontal Rules `<hr>`
+Horizontal rules create a visual break between content.
+```html
+<p>This is some content.</p>
+<hr>
+<p>This is more content.</p>
+
 ```
 
 
