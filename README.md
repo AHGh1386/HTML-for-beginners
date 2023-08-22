@@ -31,7 +31,7 @@
    3. Table Headers `<th>`
    4. Table Data `<td>`
 
-7. [Forms](#forms)
+7. Forms
    1. Form Structure `<form>`
    2. Text Input `<input type="text">`
    3. Password Input `<input type="password">`
@@ -40,7 +40,22 @@
    6. Dropdown Menus `<select>`
    7. Textareas `<textarea>`
    8. Submit Buttons `<input type="submit">`
-  
+
+8. Divisions and Spans
+   1. Divisions `<div>`
+   2. Spans `<span>`
+
+9. Semantic Elements
+   1. Headers `<header>`
+   2. Navigation `<nav>`
+   3. Main Content `<main>`
+   4. Articles `<article>`
+   5. Sections `<section>`
+   6. Asides `<aside>`
+   7. Footers `<footer>`
+
+10. Comments
+    1. Adding Comments `<!-- -->`
       
 # 1. Introduction to HTML
 # What is HTML ??
