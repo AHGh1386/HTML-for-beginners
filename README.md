@@ -24,7 +24,7 @@
 5. Lists
    1. Unordered Lists `<ul>`
    2. Ordered Lists `<ol>`
-   3. 
+      
 6. Tables
    1. Creating Tables `<table>`
    2. Table Rows `<tr>`
