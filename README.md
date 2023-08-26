@@ -178,6 +178,44 @@ In this code if your image does not upload, it will write something to say that 
 
 <img src="https://www.codewithfaraz.com/img/Mastering%20the%20Table%20Tag%20in%20HTML%20A%20Comprehensive%20Guide.jpg">
 
+# 11.What is style:
+you can give style to elements of html with css to make them more beautiful.
+For example for a `<p>` you can change the Font size, Font family , Font weight and etc.
+
+# 12.Ways to give style:
+
+## style attribute:
+
+```html
+<p style= our style></p>
+```
+
+## style tag `<style>`
+
+you must use this tag in head.
+
+### Example:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My page title</title>
+
+    <style>
+
+      the style that we want
+
+    </style>
+</head>
+<body>
+     <!-- Content -->
+</body>
+</html>
+```
+
+
+
 
 
 
