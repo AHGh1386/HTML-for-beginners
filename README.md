@@ -56,6 +56,14 @@
 
 10. Comments
     1. Adding Comments `<!-- -->`
+
+11. How to make everything more beautiful
+    1. Style
+12. Ways to give style
+    1. Style attribute
+    2. Style tag`<style>`
+    3. Link `<link>`
+   
       
 # 1. Introduction to HTML
 # What is HTML ??
