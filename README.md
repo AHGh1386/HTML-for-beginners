@@ -244,6 +244,8 @@ If you wanna khow more about CSS,
 you can visit my another repository
 (CSS for begginers)
 
+### Give star⭐ if it was useful 😉
+
 
 
 
