@@ -214,6 +214,25 @@ you must use this tag in head.
 </html>
 ```
 
+## stylesheet link
+
+### Example:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My page title</title>
+    <link rel="stylesheet" href="filename.css" type=""text/css>
+    
+</head>
+<body>
+     <!-- Content -->
+</body>
+</html>
+
+```
+
 Don't worry if i don't mention something in this readme because you can find them in HTMLcheatsheet.html
 
 If you wanna khow more about CSS, 
