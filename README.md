@@ -95,7 +95,7 @@ HTML stands for HyperText Markup Language. It is a standard markup language for 
 
 ### Headings h1 to h6
 
-<img src="https://www.schudio.com/wp-content/uploads/2016/10/html-headings.png?x50398">
+<img src="https://github.com/AHGh1386/HTML-for-beginners/blob/main/a-1702048418566-2x.jpg">
 
 ### Paragraphs `<p>` 
 
