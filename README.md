@@ -87,7 +87,7 @@ HTML stands for HyperText Markup Language. It is a standard markup language for 
 
 ## 2.HTML Elements and tags
 
-<img src="https://www.scmgalaxy.com/tutorials/wp-content/uploads/2021/05/html-elements.png" alt="html">
+<img src="https://raw.githubusercontent.com/AHGh1386/HTML-for-beginners/main/68747470733a2f2f7777772e73636d67616c6178792e636f6d2f7475746f7269616c732f77702d636f6e74656e742f75706c6f6164732f323032312f30352f68746d6c2d656c656d656e74732e706e67.png" alt="html">
 <img src="https://images.slideplayer.com/29/9492814/slides/slide_2.jpg">
 
 
