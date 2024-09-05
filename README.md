@@ -241,7 +241,7 @@ you must use this tag in head.
 
 Don't worry if i don't mention something in this readme because you can find them in HTMLcheatsheet.html
 
-If you wanna khow more about CSS, 
+If you wanna know about CSS, 
 you can visit my another repository
 (CSS for begginers)
 
