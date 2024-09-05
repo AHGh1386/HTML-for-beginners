@@ -177,7 +177,7 @@ In this code if your image does not upload, it will write something to say that 
 
 # 6.Tabels
 
-<img src="https://www.codewithfaraz.com/img/Mastering%20the%20Table%20Tag%20in%20HTML%20A%20Comprehensive%20Guide.jpg">
+<img src="https://raw.githubusercontent.com/AHGh1386/HTML-for-beginners/main/68747470733a2f2f7777772e636f646577697468666172617a2e636f6d2f696d672f4d6173746572696e672532307468652532305461626c65253230546167253230696e25323048544d4c25323041253230436f6d70726568656e7369766525323047756964652e6a7067.jpeg">
 
 
 # 9.Semantic Elements
